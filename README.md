@@ -1,7 +1,7 @@
 # **Automatic Classification of Goods: A Feasability Study**
 *Sofia Chevrolat (August 2020)*
 
-> NB: This project is the sixth of a series of seven comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
+> NB: This project is the 6th of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 
 This study aims to study the feasability of a classication motor for goods of different categories, based on their photo and description.
