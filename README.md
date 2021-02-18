@@ -6,7 +6,7 @@ ___
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://madimedia.pro)
 
-This study aims to study the feasibility of a classication motor for goods of different categories, based on their photo and description.
+This study aims to study the feasibility of a classification motor for goods of different categories, based on their photo and description.
 This classification should be precise enough to fully automatize the categorization of articles on an e-commerce website when seller upload their item.
 ___
 
